@@ -85,7 +85,7 @@ matches the backend localhost port.
 
 Example:
 
-const API_URL = "https://localhost:7123/api/employees";
+const API_URL = "https://localhost:7007/api/employees";
 How to Run the Full Project
 Run the backend from Visual Studio.
 Run the frontend from VS Code using:
